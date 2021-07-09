@@ -1,0 +1,2 @@
+print("diego")
+print("\tdiego")
